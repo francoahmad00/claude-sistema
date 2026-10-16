@@ -1,0 +1,10 @@
+{
+  "umbralTokens": 250000,
+  "repetirAvisoCada": 50000,
+  "boveda": "C:\\Users\\franc\\Cerebro",
+  "informeSemanal": {
+    "dias": 30,
+    "usarClaude": true,
+    "modelo": "sonnet"
+  }
+}
